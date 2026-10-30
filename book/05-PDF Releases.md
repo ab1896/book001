@@ -34,7 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-№.05) ：第 5 步：别人能下载到我的书​，PDF 自动发到 Releases。
+## №.05) ：第 5 步：别人能下载到我的书​，PDF 自动发到 Releases。
 
 提交后去哪看：仓库首页右侧边栏 → Releases​ → 点进去就能下载 book.pdf。
 
