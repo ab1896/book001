@@ -15,3 +15,6 @@
 <img width="1920" height="978" alt="image" src="https://github.com/user-attachments/assets/b7191dfd-1bde-4b35-b721-a3e1854f099e" />
 
 以后每改一次稿子，自动多一版：第 1 版、第 2 版、第 3 版…… 再也不用去 Actions 页面翻 Artifacts 了，而且 Releases 里的文件永久保存（Artifacts 90 天后会过期删掉）。
+
+06-《道德经》.md  23KB 7641个字   07-《盐铁论》.md  182KB  60769个字   08-《西游记》.md    533KB  180850个字       
+
